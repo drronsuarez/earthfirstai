@@ -1,0 +1,2 @@
+# earthfirstai
+experiments with Claude
